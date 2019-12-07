@@ -13,8 +13,11 @@ And tried to make it automatic to make it a bit quicker for you.
 ### Usage
 
 Create Linkedin App from Linkedin Developers page.
+
 Copy the OAuth Client ID, Client Secret, and Redirect URI from the Auth tab in your App settings and paste them in the corresponding variables in index.js
+
 `npm install`
+
 `node index.js`
 
 Apologize if this doens't work :)
